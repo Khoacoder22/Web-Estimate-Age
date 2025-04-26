@@ -2,7 +2,7 @@
 
 ## Description
 
-Web Estimate Age is a web application that allows users to estimate their age based on an image. The project uses modern technologies to recognize and predict age accurately.
+Web Estimate Age is a web application that allows users to estimate their age based on an image. The project uses computer vision and deep learning technologies to recognize and predict age.
 
 ## Installation
 
